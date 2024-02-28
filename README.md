@@ -12,7 +12,7 @@ Refer to the file: SQL Queries.pdf
 
 ## **Third: Evaluate Data Quality Issues in the Data Provided**
 
-I have conducted Exploratory Data Analysis on Reciepts, Users and Brands data using Python jupyter notebook
+Conducted Exploratory Data Analysis on Reciepts, Users and Brands data using Python jupyter notebook
 
 Major data quality issues found:
 
