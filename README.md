@@ -1,16 +1,16 @@
 # Fetch Rewards Coding Exercise
 
-### **First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model**
+## **First: Review Existing Unstructured Data and Diagram a New Structured Relational Data Model**
 
 Refer to the file: ER_diagram.jpg
 
 I have changed the names of '_id' field for Receipts, Users, and Brands schema to 'receipt_id', 'user_id' and 'brand_id' respectively.
 
-**Second: Write a query that directly answers a predetermined question from a business stakeholder**
+## **Second: Write a query that directly answers a predetermined question from a business stakeholder**
 
 Refer to the file: SQL Queries.pdf
 
-**Third: Evaluate Data Quality Issues in the Data Provided**
+## **Third: Evaluate Data Quality Issues in the Data Provided**
 
 I have conducted Exploratory Data Analysis on Reciepts, Users and Brands data using Python jupyter notebook.
 
@@ -29,6 +29,6 @@ Major data quality issues found:
 
 *Considerate fraction of values missing for 'topBrand' and 'categoryCode' columns.
 
-**Fourth: Communicate with Stakeholders**
+## **Fourth: Communicate with Stakeholders**
 
 Refer file: email.pdf
