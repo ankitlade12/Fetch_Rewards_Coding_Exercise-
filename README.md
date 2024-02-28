@@ -16,16 +16,16 @@ Conducted Exploratory Data Analysis on Reciepts, Users and Brands data using Pyt
 
 Major data quality issues found:
 
-'Receipts' Data:
+Receipts Data:
 
 * Considerate amount of values missing in 'finishedDate', 'pointsEarned', 'purchasedItemCount', 'totalSpent', 'rewardsReceiptItemList' columns
 * Large number of outliers in values of 'pointsEarned', 'purchasedItemCount', 'totalSpent' columns. The distribution curves for values of these features is skewed. We do not know at this point whether these outliers are legit values or a result of some errors/inconsistency in processes that produce these values
 
-'Users' Data:
+Users Data:
 
 * More than half of the records are duplicate
 
-'Brands' Data:
+Brands Data:
 
 * Considerate fraction of values missing for 'topBrand' and 'categoryCode' columns
 
