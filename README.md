@@ -26,6 +26,6 @@ Major data quality issues found:
 'Brands' Data:
 > Considerate fraction of values missing for 'topBrand' and 'categoryCode' columns.
 
-/* Fourth: Communicate with Stakeholders */
+** Fourth: Communicate with Stakeholders **
 
 Refer file: email.pdf
